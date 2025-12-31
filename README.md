@@ -14,8 +14,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![](https://github-readme-stats.vercel.app/api?username=riyaaa09&theme=default&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=riyaaa09&theme=default&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riyaaa09&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
